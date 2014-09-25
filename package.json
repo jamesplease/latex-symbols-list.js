@@ -1,0 +1,26 @@
+{
+  "name": "latex-symbols-list",
+  "version": "0.1.0",
+  "description": "A list of LaTeX + AMS symbols.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmeas/latex-symbols-list.js.git"
+  },
+  "keywords": [
+    "latex",
+    "ams",
+    "symbols",
+    "symbol",
+    "list"
+  ],
+  "author": "Jmeas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmeas/latex-symbols-list.js/issues"
+  },
+  "homepage": "https://github.com/jmeas/latex-symbols-list.js"
+}
